@@ -1,2 +1,2 @@
-# terminal_example
-Learning terminal repository
+# Solution for homework for VBA
+Callenges are fun, 
